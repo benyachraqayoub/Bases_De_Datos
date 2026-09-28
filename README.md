@@ -39,7 +39,7 @@ El proyecto está organizado de la siguiente manera. **Haz clic en las carpetas 
   * Conceptos clave sobre cómo los sistemas operativos y los DBMS gestionan los archivos de datos.
   * *Acceso rápido:* [Ver PDF de Apuntes](./Teoria-General/cap1-almacenamiento-informacion.pdf)
 
-### 🧪 [Evaluaciones y Ejercicios](./Ejercicios/README.md)
+### 🧪 [Evaluaciones y Ejercicios](./Ejercicios#readme)
 * **Test - Capítulo 1:** Autoevaluación diseñada para consolidar los conocimientos teóricos del primer módulo.
   * *Acceso rápido:* [Cuestionario de Preguntas](./Ejercicios/test-capitulo1-preguntas.pdf) | [Soluciones y Respuestas](./Ejercicios/test-capitulo1-repuestas.pdf)
 

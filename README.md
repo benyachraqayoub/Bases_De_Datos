@@ -67,5 +67,5 @@ A lo largo de estos estudios, planeo trabajar y dominar las siguientes tecnolog�
 3. **Práctica de Código:** Explora las carpetas [SQL](./SQL/README.md) y [NoSQL](./NoSQL/README.md) para ver los scripts y bases de datos locales creadas.
 
 ---
-✍️ **Creado por:** [Tu Nombre o Usuario de GitHub]  
+✍️ **Creado por:** Ayoub Ben Yachraq  
 🎯 *En constante aprendizaje y evolución.*

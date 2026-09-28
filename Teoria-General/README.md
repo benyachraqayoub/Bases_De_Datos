@@ -8,7 +8,7 @@ Este espacio contiene los fundamentos teóricos esenciales e independientes de c
   * **Contenido:** Gestión de archivos por el S.O. vs. DBMS, estructuras lógicas/físicas de almacenamiento y optimización de lectura en disco.
 
 ---
-🎯 **Siguiente paso:** Tras terminar la lectura, ponte a prueba en el [Módulo de Ejercicios](../Ejercicios#readme).
+🎯 **Siguiente paso:** Tras terminar la lectura, ponte a prueba en el [Módulo de Ejercicios](../Ejercicios/README.md).
 
 ---
 [⬅️ Volver al menú principal](../README.md)

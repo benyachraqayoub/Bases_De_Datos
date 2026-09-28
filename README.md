@@ -39,7 +39,7 @@ El proyecto está organizado de la siguiente manera. **Haz clic en las carpetas 
   * Conceptos clave sobre cómo los sistemas operativos y los DBMS gestionan los archivos de datos.
   * *Acceso rápido:* [Ver PDF de Apuntes](./Teoria-General/cap1-almacenamiento-informacion.pdf)
 
-### 🧪 [Evaluaciones y Ejercicios](./Ejercicios#readme)
+### 🧪 [Evaluaciones y Ejercicios](./Ejercicios/README.md)
 * **Test - Capítulo 1:** Autoevaluación diseñada para consolidar los conocimientos teóricos del primer módulo.
   * *Acceso rápido:* [Cuestionario de Preguntas](./Ejercicios/test-capitulo1-preguntas.pdf) | [Soluciones y Respuestas](./Ejercicios/test-capitulo1-repuestas.pdf)
 
@@ -63,7 +63,7 @@ A lo largo de estos estudios, planeo trabajar y dominar las siguientes tecnolog�
 ## 🚀 Cómo usar este repositorio
 
 1. **Lectura Teórica:** Comienza revisando el material en la sección de [Teoría General](./Teoria-General/README.md).
-2. **Ponte a Prueba:** Intenta resolver los cuestionarios en [Ejercicios](./Ejercicios#readme) antes de mirar el archivo de respuestas.
+2. **Ponte a Prueba:** Intenta resolver los cuestionarios en [Ejercicios](./Ejercicios/README.md) antes de mirar el archivo de respuestas.
 3. **Práctica de Código:** Explora las carpetas [SQL](./SQL/README.md) y [NoSQL](./NoSQL/README.md) para ver los scripts y bases de datos locales creadas.
 
 ---

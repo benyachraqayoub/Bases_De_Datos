@@ -2,7 +2,13 @@
 
 Módulo dedicado al diseño, implementación, normalización y consulta de bases de datos utilizando el lenguaje estructurado SQL.
 
-## 📚 Guías Teóricas y Comandos (Gamma.app)
+## 📚 Material Teórico y de Referencia
+
+### 🎓 Recursos del Profesor
+* **[📄 Descargar/Ver: Capítulo 2 - Bases de Datos Relacionales (PDF)](./cap2-bases-de-datos-relacionales.pdf)**
+  * *Contenido:* Material oficial del curso sobre los fundamentos, conceptos clave y arquitectura de los modelos relacionales.
+
+### 🚀 Guías Visuales Propias (Gamma.app)
 He preparado estas dos guías visuales de 10 páginas para dominar los fundamentos y la sintaxis de SQL:
 
 * **[📄 Descargar/Ver: Aprendiendo Bases de Datos desde Cero (PDF)](./Aprendiendo-Bases-de-Datos-desde-Cero.pdf)**

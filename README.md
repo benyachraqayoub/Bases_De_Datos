@@ -63,7 +63,7 @@ A lo largo de estos estudios, planeo trabajar y dominar las siguientes tecnolog�
 ## 🚀 Cómo usar este repositorio
 
 1. **Lectura Teórica:** Comienza revisando el material en la sección de [Teoría General](./Teoria-General/README.md).
-2. **Ponte a Prueba:** Intenta resolver los cuestionarios en [Ejercicios](./Ejercicios/README.md) antes de mirar el archivo de respuestas.
+2. **Ponte a Prueba:** Intenta resolver los cuestionarios en [Ejercicios](./Ejercicios#readme) antes de mirar el archivo de respuestas.
 3. **Práctica de Código:** Explora las carpetas [SQL](./SQL/README.md) y [NoSQL](./NoSQL/README.md) para ver los scripts y bases de datos locales creadas.
 
 ---

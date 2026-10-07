@@ -53,7 +53,9 @@
     *   Capturas del entorno SQL de Supabase verificando la segregación de accesos del principio de mínimo privilegio (`GRANT`/`REVOKE`):
         *   [Practica 6 - capture 1.png](./Practicas%20soluciones/Practica%206%20-%20capture%201.png) | [Practica 6 - capture 2.png](./Practicas%20soluciones/Practica%206-%20capture%202.png) | [Practica 6 - capture 3.png](./Practicas%20soluciones/Practica%206%20-%20capture%203.png)
         *   [Practica 6 - capture 4.png](./Practicas%20soluciones/Practica%206-%20capture%204.png) | [Practica 6 - capture 5.png](./Practicas%20soluciones/Practica%206%20-%20capture%205.png) | [Practica 6 - capture 6.png](./Practicas%20soluciones/Practica%206-%20capture%206.png)
-        *   [Practica 6 - capture 7.png](./Practicas%20soluciones/Practica%206-%20capture%207.png) | [Practica 6 - capture 8.png](./Practicas%20soluciones/Practica%206-%20capture%208.png) | [Practica 6 - capture 9.png](./Practicas%20soluciones/Practica%206-%20capture%209.png)
+        *   [Practica 6 - capture 7.png](./Practicas%20soluciones/Practica%206-%20capture%207.png) | [Practica 6 - capture 8.png](./Practicas%20soluciones/Practica%206-%20capture%208.png) | [Practica 6 - capture 9.png](./Practicas%20soluciones/Practica%206-%20capture%209.png) 
+        * [Practica 6 - SQL Editor.png](./Practicas%20soluciones/Practica%206-%20SQL%20Editor.png)
+
 
 ---
 

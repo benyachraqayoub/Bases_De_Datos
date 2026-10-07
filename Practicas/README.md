@@ -43,9 +43,17 @@
 
 ### [📄 Práctica 5: Horarios y Control de Pagos](./practica5-horarios-pagos.pdf)
 *   **Foco:** Control de flujos financieros e integridad temporal (evitar solapamiento de horarios y estados de pago).
+*   **Evidencias de Solución:**
+    *   [Practica 5- SQL Editor.png](./Practicas%20soluciones/Practica%205-%20SQL%20Editor.png): Comandos de inserción de horarios y flujo de caja con restricciones analizadas.
+    *   [Practica 5- Table Editor.png](./Practicas%20soluciones/Practica%205-%20Table%20Editor.png): Vista de la base de datos con las nuevas relaciones financieras implementadas.
 
 ### [📄 Práctica 6: Vistas y Permisos de Acceso](./practica6-vistas-permisos.pdf)
 *   **Foco:** Seguridad y abstracción. Creación de vistas para enmascarar datos sensibles y comandos `GRANT` / `REVOKE` para la gestión de roles de usuario.
+*   **Evidencias de Solución (Pruebas de Permisos):**
+    *   Capturas del entorno SQL de Supabase verificando la segregación de accesos del principio de mínimo privilegio (`GRANT`/`REVOKE`):
+        *   [Practica 6 - capture 1.png](./Practicas%20soluciones/Practica%206%20-%20capture%201.png) | [Practica 6 - capture 2.png](./Practicas%20soluciones/Practica%206-%20capture%202.png) | [Practica 6 - capture 3.png](./Practicas%20soluciones/Practica%206%20-%20capture%203.png)
+        *   [Practica 6 - capture 4.png](./Practicas%20soluciones/Practica%206-%20capture%204.png) | [Practica 6 - capture 5.png](./Practicas%20soluciones/Practica%206%20-%20capture%205.png) | [Practica 6 - capture 6.png](./Practicas%20soluciones/Practica%206-%20capture%206.png)
+        *   [Practica 6 - capture 7.png](./Practicas%20soluciones/Practica%206-%20capture%207.png) | [Practica 6 - capture 8.png](./Practicas%20soluciones/Practica%206-%20capture%208.png) | [Practica 6 - capture 9.png](./Practicas%20soluciones/Practica%206-%20capture%209.png)
 
 ---
 

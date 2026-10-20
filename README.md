@@ -46,11 +46,8 @@ El proyecto está organizado de la siguiente manera. **Haz clic en las carpetas 
 │       ├── 🖼️ [Practica 4 - SQL Editor.png](./Practicas/Practicas%20soluciones/Practica%204%20-%20SQL%20Editor.png)
 │       ├── 🖼️ [Practica 4 - Tabla aula.png](./Practicas/Practicas%20soluciones/Practica%204%20-%20Tabla%20aula.png)
 │       └── 🖼️ [Practica 4- Columna codigo_aula.png](./Practicas/Practicas%20soluciones/Practica%204-%20Columna%20codigo_aula.png)
-├── 📂 [SQL/](./SQL/README.md)                    # Teoría de normalización, comandos DDL, recursos y PDFs de Gamma
-│   ├── 📄 [cap2-bases-de-datos-relacionales.pdf](./SQL/cap2-bases-de-datos-relacionales.pdf)
-│   ├── 📄 [Aprendiendo-Bases-de-Datos-desde-Cero.pdf](./SQL/Aprendiendo-Bases-de-Datos-desde-Cero.pdf)
-│   ├── 📄 [Dominando-los-Comandos-SQL.pdf](./SQL/Dominando-los-Comandos-SQL.pdf)
-│   └── 📄 [Guia-Definitiva-de-Comandos-SQL-para-PostgreSQL.pdf](./SQL/Guia-Definitiva-de-Comandos-SQL-para-PostgreSQL.pdf)
+├── 📂 [SQL/](./SQL/README.md)                    # Teoría de normalización, comandos DDL y recursos
+│   └── 📄 [cap2-bases-de-datos-relacionales.pdf](./SQL/cap2-bases-de-datos-relacionales.pdf)
 └── 📂 [NoSQL/](./NoSQL/README.md)                  # Prácticas con bases de datos no relacionales (ej. MongoDB, Redis)
 ```
 
@@ -71,9 +68,6 @@ El proyecto está organizado de la siguiente manera. **Haz clic en las carpetas 
 
 ### 💾 [Tecnologías Relacionales (SQL)](./SQL/README.md)
 * **Capítulo 2 (Recurso Oficial):** Material del profesor sobre fundamentos, conceptos clave y arquitectura de modelos relacionales.
-* **Fundamentos Visuales (Gamma):** Diapositivas sobre anomalías, PK, FK y separación de tablas relacionales.
-* **Sintaxis de Comandos (Gamma):** Guía técnica de comandos DDL (`CREATE`, `ALTER`, `DROP`, `TRUNCATE`, `CHECK`).
-* **Especialización en PostgreSQL (Gamma):** Manual práctico paso a paso enfocado en sintaxis DDL, manipulación de datos (DML) y consultas estructuradas (DQL) con `SELECT`.
 
 ### 📊 [Tecnologías No Relacionales (NoSQL)](./NoSQL/README.md)
 *(Próximamente)* Espacio reservado para el modelado de datos flexible, bases de datos documentales, en caché y almacenes de clave-valor.
@@ -92,7 +86,7 @@ A lo largo de estos estudios, planeo trabajar y dominar las siguientes tecnolog�
 ## 🚀 Cómo usar este repositorio
 
 1. **Lectura Teórica:** Comienza revisando el material en la sección de [Teoría General](./Teoria-General/README.md).
-2. **Fundamentos y Comandos SQL:** Descarga y estudia los PDFs oficiales y los manuales interactivos dentro de la carpeta [SQL](./SQL/README.md).
+2. **Fundamentos SQL:** Consulta el material del capítulo 2 en la carpeta [SQL](./SQL/README.md).
 3. **Ejecución de Prácticas:** Consulta los enunciados dentro de [Prácticas](./Practicas/README.md) y compara tus resultados analizando los scripts y capturas en la carpeta de soluciones para entender cómo mitigar errores de clave o sintaxis.
 4. **Ponte a Prueba:** Intenta resolver los cuestionarios en [Ejercicios](./Ejercicios/README.md) antes de mirar el archivo de respuestas.
 ---

@@ -16,41 +16,6 @@ El objetivo de este repositorio es servir como bitácora de estudio y portafolio
 
 ---
 
-## 📁 Estructura del Repositorio
-
-El proyecto está organizado de la siguiente manera. **Haz clic en las carpetas o archivos para navegar directamente:**
-
-```text
-.
-├── 📂 [Teoria-General/](./Teoria-General/README.md)         # Conceptos fundamentales e independientes del motor
-│   └── 📄 [cap1-almacenamiento-informacion.pdf](./Teoria-General/cap1-almacenamiento-informacion.pdf)
-├── 📂 [Ejercicios/](./Ejercicios/README.md)             # Evaluaciones, cuestionarios y desafíos prácticos
-│   ├── 📄 [test-capitulo1-preguntas.pdf](./Ejercicios/test-capitulo1-preguntas.pdf)
-│   └── ✅ [test-capitulo1-repuestas.pdf](./Ejercicios/test-capitulo1-repuestas.pdf)
-├── 📂 [Practicas/](./Practicas/README.md)              # Enunciados de prácticas y soluciones visuales con scripts
-│   ├── 📄 [practica1-profesores-alumnos.pdf](./Practicas/practica1-profesores-alumnos.pdf)
-│   ├── 📄 [practica2-cursos.pdf](./Practicas/practica2-cursos.pdf)
-│   ├── 📄 [practica3-matriculas.pdf](./Practicas/practica3-matriculas.pdf)
-│   ├── 📄 [practica4-aulas-alter-table.pdf](./Practicas/practica4-aulas-alter-table.pdf)
-│   ├── 📄 [practica5-horarios-pagos.pdf](./Practicas/practica5-horarios-pagos.pdf)
-│   ├── 📄 [practica6-vistas-permisos.pdf](./Practicas/practica6-vistas-permisos.pdf)
-│   └── 📂 [Practicas soluciones/](./Practicas/Practicas%20soluciones/) # Evidencias de ejecución, errores corregidos y editores SQL
-│       ├── 🖼️ [Practica 1- Table Editor.png](./Practicas/Practicas%20soluciones/Practica%201-%20Table%20Editor.png)
-│       ├── 🖼️ [Practica 1-SQL Editor.png](./Practicas/Practicas%20soluciones/Practica%201-SQL%20Editor.png)
-│       ├── 🖼️ [Practica 2- Error de la prueba 4.png](./Practicas/Practicas%20soluciones/Practica%202-%20Error%20de%20la%20prueba%204.png)
-│       ├── 🖼️ [Practica 2- SQL Editor.png](./Practicas/Practicas%20soluciones/Practica%202-%20SQL%20Editor.png)
-│       ├── 🖼️ [Practica 3 - Error de la prueba 1.png](./Practicas/Practicas%20soluciones/Practica%203%20-%20Error%20de%20la%20prueba%201.png)
-│       ├── 🖼️ [Practica 3 - SQL Editor.png](./Practicas/Practicas%20soluciones/Practica%203%20-%20SQL%20Editor.png)
-│       ├── 🖼️ [Practica 4 - Clave ajena aula.png](./Practicas/Practicas%20soluciones/Practica%204%20-%20Clave%20ajena%20aula.png)
-│       ├── 🖼️ [Practica 4 - Columna telefono_tutor.png](./Practicas/Practicas%20soluciones/Practica%204%20-%20Columna%20telefono_tutor.png)
-│       ├── 🖼️ [Practica 4 - SQL Editor.png](./Practicas/Practicas%20soluciones/Practica%204%20-%20SQL%20Editor.png)
-│       ├── 🖼️ [Practica 4 - Tabla aula.png](./Practicas/Practicas%20soluciones/Practica%204%20-%20Tabla%20aula.png)
-│       └── 🖼️ [Practica 4- Columna codigo_aula.png](./Practicas/Practicas%20soluciones/Practica%204-%20Columna%20codigo_aula.png)
-├── 📂 [SQL/](./SQL/README.md)                    # Teoría de normalización, comandos DDL y recursos
-│   └── 📄 [cap2-bases-de-datos-relacionales.pdf](./SQL/cap2-bases-de-datos-relacionales.pdf)
-└── 📂 [NoSQL/](./NoSQL/README.md)                  # Prácticas con bases de datos no relacionales (ej. MongoDB, Redis)
-```
-
 ---
 
 ## 📝 Resumen de Contenidos

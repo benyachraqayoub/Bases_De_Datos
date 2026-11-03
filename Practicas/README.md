@@ -13,6 +13,14 @@
 
 ---
 
+## 🧩 Modelo E/R
+
+Se incluyen las soluciones de los [ocho ejercicios del modelo E/R](./Modelo_ER_Soluciones.md),
+con entidades, cardinalidades, paso a tablas y un [script PostgreSQL](./modelo_er_soluciones.sql)
+que crea un esquema independiente para cada ejercicio.
+
+---
+
 ## 📋 Desglose de Prácticas
 
 ### [📄 Práctica 1: Gestión de Profesores y Alumnos](./practica1-profesores-alumnos.pdf)
